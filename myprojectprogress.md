@@ -1,0 +1,1 @@
+While I don't have much experience in the area an area of interest for me is TensorFlow and by extension, machine learning. For a project like TensorFlow which has multiple areas to work on, the optimal choice would probably be the use of a blessed repository.
